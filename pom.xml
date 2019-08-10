@@ -23,6 +23,7 @@
     <modules>
         <module>pattern01-simple-factory</module>
         <module>pattern02-facade</module>
+        <module>pattern03-adapter</module>
     </modules>
 
     <!-- 版本说明：这里统一管理依赖的版本号 -->
