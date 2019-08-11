@@ -25,6 +25,7 @@
         <module>pattern02-facade</module>
         <module>pattern03-adapter</module>
         <module>pattern04-singleton</module>
+        <module>pattern05-factory-method</module>
     </modules>
 
     <!-- 版本说明：这里统一管理依赖的版本号 -->
