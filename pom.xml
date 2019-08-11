@@ -29,6 +29,7 @@
         <module>pattern06-abstract-factory</module>
         <module>pattern07-builder</module>
         <module>pattern08-prototype</module>
+        <module>pattern09-mediator</module>
     </modules>
 
     <!-- 版本说明：这里统一管理依赖的版本号 -->
