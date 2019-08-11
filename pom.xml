@@ -27,6 +27,7 @@
         <module>pattern04-singleton</module>
         <module>pattern05-factory-method</module>
         <module>pattern06-abstract-factory</module>
+        <module>pattern07-builder</module>
     </modules>
 
     <!-- 版本说明：这里统一管理依赖的版本号 -->
