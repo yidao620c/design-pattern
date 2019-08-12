@@ -31,6 +31,7 @@
         <module>pattern08-prototype</module>
         <module>pattern09-mediator</module>
         <module>pattern10-proxy</module>
+        <module>pattern11-observer</module>
     </modules>
 
     <!-- 版本说明：这里统一管理依赖的版本号 -->
