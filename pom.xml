@@ -39,6 +39,7 @@
         <module>pattern16-strategy</module>
         <module>pattern17-state</module>
         <module>pattern18-memento</module>
+        <module>pattern19-flyweight</module>
     </modules>
 
     <!-- 版本说明：这里统一管理依赖的版本号 -->
