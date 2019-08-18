@@ -34,6 +34,7 @@
         <module>pattern11-observer</module>
         <module>pattern12-command</module>
         <module>pattern13-iterator</module>
+        <module>pattern14-composite</module>
     </modules>
 
     <!-- 版本说明：这里统一管理依赖的版本号 -->
