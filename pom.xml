@@ -38,6 +38,7 @@
         <module>pattern15-template</module>
         <module>pattern16-strategy</module>
         <module>pattern17-state</module>
+        <module>pattern18-memento</module>
     </modules>
 
     <!-- 版本说明：这里统一管理依赖的版本号 -->
