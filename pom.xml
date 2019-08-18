@@ -42,6 +42,7 @@
         <module>pattern19-flyweight</module>
         <module>pattern20-interpreter</module>
         <module>pattern21-decorator</module>
+        <module>pattern22-responsibility</module>
     </modules>
 
     <!-- 版本说明：这里统一管理依赖的版本号 -->
